@@ -33,15 +33,9 @@ ___
 
 ___
 ### Связаться со мной:
-<div  style="display: flex; flex-direction: column; gap: 8px;">
+<div>
     <a href="https://t.me/Random_v11" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-    </a>
-    <a href="mailto:vladislav.teteryatniko@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Email&logo=envelope&label=&color=FCD637&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="email logo" />
-    </a>
-    <a href="tel:+79992159843" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Phone&logo=phone&label=&color=AEDC85&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="phone logo" />
     </a>
 </div>
 
