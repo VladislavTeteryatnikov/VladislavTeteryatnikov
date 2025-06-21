@@ -2,7 +2,7 @@
 ___
 
 ### Обо мне:
-Junior Web-Developer. Работаю на должности PHP-программиста в AO "ИндигоСофт" ЦТ.
+PHP-разработчик. Работаю в компании AO "ИндигоСофт ЦТ"
 ___
 
 ### Технологии:
@@ -12,22 +12,36 @@ ___
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
 </div>
 
 ___
 ### Связаться со мной:
-<div>
+<div  style="display: flex; flex-direction: column; gap: 8px;">
     <a href="https://t.me/Random_v11" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    </a>
+    <a href="mailto:vladislav.teteryatniko@gmail.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Email&logo=envelope&label=&color=FCD637&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+    </a>
+    <a href="tel:+79992159843" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Phone&logo=phone&label=&color=AEDC85&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="phone logo" />
     </a>
 </div>
 
